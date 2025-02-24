@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prabhakar Kumar Singh</h1>
 <h3 align="center">A passionate Software Engineer at UST</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prsing9&label=Profile%20views&color=0e75b6&style=flat" alt="prsing9" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif?username=Prsingh9&label=Profile%20views&color=0e75b6&style=flat" alt="Prsingh9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prsing9" alt="prsing9" /></a> </p>
 
