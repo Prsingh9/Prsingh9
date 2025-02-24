@@ -1,11 +1,15 @@
-<div align="left">
-  <h1>Hi 👋, I'm Prabhakar Kumar Singh</h1>
-  <h3>A passionate Software Engineer at UST</h3>
-</div>
+<table>
+  <tr>
+    <td style="text-align: left;">
+      <h1>Hi 👋, I'm Prabhakar Kumar Singh</h1>
+      <h3>A passionate Software Engineer at UST</h3>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Developer GIF" width="200" height="200" />
+    </td>
+  </tr>
+</table>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Developer GIF" width="200" height="200" />
-</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prsingh9&label=Profile%20views&color=0e75b6&style=flat" alt="prsingh9" /> </p>
