@@ -1,15 +1,11 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Left Section (Text) -->
-  <div style="text-align: left;">
-    <h1>Hi 👋, I'm Prabhakar Kumar Singh</h1>
-    <h3>A passionate Software Engineer at UST</h3>
-  </div>
-  
-  <!-- Right Section (Image inside <p>) -->
-  <p style="margin: 0;">
-    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Developer GIF" width="200" height="200" />
-  </p>
+<div align="left">
+  <h1>Hi 👋, I'm Prabhakar Kumar Singh</h1>
+  <h3>A passionate Software Engineer at UST</h3>
 </div>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Developer GIF" width="200" height="200" />
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prsingh9&label=Profile%20views&color=0e75b6&style=flat" alt="prsingh9" /> </p>
