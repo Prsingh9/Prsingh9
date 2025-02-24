@@ -5,7 +5,7 @@
       <h3>A passionate Software Engineer at UST</h3>
     </td>
     <td style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Developer GIF" width="200" height="200" />
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Developer GIF"  />
     </td>
   </tr>
 </table>
