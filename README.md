@@ -1,8 +1,11 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- Left Section with Text -->
   <div style="flex: 1; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #f7f7f7;">
     <h1 align="left">Hi 👋, I'm Prabhakar Kumar Singh</h1>
     <h3 align="left">A passionate Software Engineer at UST</h3>
   </div>
+  
+  <!-- Right Section with GIF -->
   <div>
     <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Developer GIF" width="300" height="300" />
   </div>
